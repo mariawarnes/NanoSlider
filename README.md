@@ -19,3 +19,5 @@
   <button class="next-button" aria-label="Next Item">Next</button>
 </div>
 ```
+
+Example: https://codepen.io/mariawarnes/pen/ExdobEJ
