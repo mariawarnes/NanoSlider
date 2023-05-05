@@ -1,0 +1,15 @@
+* {
+	box-sizing: border-box;
+}
+
+.carousel-wrap {
+	overflow: hidden;
+	max-width: 800px;
+	margin: 0 auto;
+	visibility: hidden;
+}
+
+.carousel {
+	display: inline-flex;
+	transition: 0.5s all;
+}
